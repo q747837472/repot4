@@ -9,5 +9,6 @@ public class hello {
         System.out.println("commit");
         System.out.println("ddd");
         System.out.println("牛叉少年");
+          System.out.println("牛叉少年");
     }
 }
